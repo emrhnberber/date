@@ -11,13 +11,9 @@ Bu proje, sevdiğiniz kişiye modern ve eğlenceli bir şekilde çıkma teklifi 
 
 ## 📷 Ekran Görüntüleri
 
-Projenin nasıl göründüğüne dair ekran görüntülerini buraya ekleyebilirsiniz.
-
 | Ana Sayfa | Başarılı Teklif |
 |-----------|-----------------|
 | ![Ana Sayfa Görünümü](gitasset/ss1.png) | ![Kabul Edildi Görünümü](gitasset/ss2.png) |
-
-*Not: `ekran-goruntusu-1.png` ve `ekran-goruntusu-2.png` dosyalarını proje klasörüne ekleyerek bu alanları güncelleyebilirsiniz.*
 
 ## 🚀 Kurulum ve Kullanım
 
